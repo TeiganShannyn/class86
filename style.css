@@ -1,0 +1,25 @@
+
+body{
+    background-color: antiquewhite;
+}
+#one{
+    background-color: tan;
+    color: black;
+    font-size: 30 px;
+    text-align: center;
+}
+.one{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+    font-size: 30 px;
+    text-align: center;
+}
+.three{
+    border: dotted brown 3px;
+}
+.grid{
+    display: grid;
+    grid-template-rows: auto;
+}
+
